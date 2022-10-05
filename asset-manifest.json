@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7dba59e.css",
-    "main.js": "/static/js/main.3d2665df.js",
+    "main.css": "/static/css/main.369f8852.css",
+    "main.js": "/static/js/main.0ea83843.js",
     "static/media/Jordan_compressed.png": "/static/media/Jordan_compressed.c7daa4074b90bb5a445e.png",
     "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/static/media/about02.7a3df03410ee756268ec.png",
@@ -18,6 +18,7 @@
     "static/media/sass.png": "/static/media/sass.36e863bfbcb25c109d00.png",
     "static/media/node.png": "/static/media/node.8683d89cf78ffae3d1f7.png",
     "static/media/cpp.png": "/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/logo_jordan.png": "/static/media/logo_jordan.63869ed259060c77923a.png",
     "static/media/graphql.png": "/static/media/graphql.0372057049181c5de51a.png",
     "static/media/amazon.png": "/static/media/amazon.0a8be1f53138b5c52456.png",
     "static/media/mobile.png": "/static/media/mobile.145d9ce0157a56f8fcd8.png",
@@ -28,11 +29,11 @@
     "static/media/skype.png": "/static/media/skype.c8d7ee175da5b4c8a8ab.png",
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.c7dba59e.css.map": "/static/css/main.c7dba59e.css.map",
-    "main.3d2665df.js.map": "/static/js/main.3d2665df.js.map"
+    "main.369f8852.css.map": "/static/css/main.369f8852.css.map",
+    "main.0ea83843.js.map": "/static/js/main.0ea83843.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7dba59e.css",
-    "static/js/main.3d2665df.js"
+    "static/css/main.369f8852.css",
+    "static/js/main.0ea83843.js"
   ]
 }
