@@ -42,17 +42,19 @@ const Work = () => {
       </h2>
 
       <div className="app__work-filter">
-        {['C', 'Web App', 'Python', 'C#', 'Unity', 'All'].map((item, index) => (
-          <div
-            key={index}
-            onClick={() => handleWorkFilter(item)}
-            className={`app__work-filter-item app__flex p-text ${
-              activeFilter === item ? 'item-active' : ''
-            }`}
-          >
-            {item}
-          </div>
-        ))}
+        {['C', 'Web App', 'C#', 'Unity', 'React.Js', 'Python', 'All'].map(
+          (item, index) => (
+            <div
+              key={index}
+              onClick={() => handleWorkFilter(item)}
+              className={`app__work-filter-item app__flex p-text ${
+                activeFilter === item ? 'item-active' : ''
+              }`}
+            >
+              {item}
+            </div>
+          )
+        )}
       </div>
 
       <motion.div

@@ -21,12 +21,12 @@
   align-items: center;
 
   img {
-    width: 90px;
-    height: 20px;
+    width: 144px;
+    height: 30px;
 
     @media screen and (min-width: 2000px) {
-      width: 180px;
-      height: 40px;
+      width: 288px;
+      height: 60px;
     }
   }
 }
@@ -56,12 +56,13 @@
     }
 
     a {
+      font-size: 1rem;
       color: var(--gray-color);
       text-decoration: none;
       flex-direction: column;
 
       text-transform: uppercase;
-      font-weight: 500;
+      font-weight: 600;
 
       transition: all 0.3s ease-in-out;
 
