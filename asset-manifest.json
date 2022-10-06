@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.369f8852.css",
-    "main.js": "/static/js/main.944b7230.js",
+    "main.css": "/static/css/main.0530d441.css",
+    "main.js": "/static/js/main.dadb887a.js",
     "static/media/Jordan.png": "/static/media/Jordan.73417117f0d4b38bee9f.png",
     "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/static/media/about02.7a3df03410ee756268ec.png",
@@ -15,6 +15,7 @@
     "static/media/adidas.png": "/static/media/adidas.83df8153294f9137d308.png",
     "static/media/bolt.png": "/static/media/bolt.64e7d9d30ece478ef3a0.png",
     "static/media/redux.png": "/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/cSharp.png": "/static/media/cSharp.82739bedbdacc34c97a0.png",
     "static/media/sass.png": "/static/media/sass.36e863bfbcb25c109d00.png",
     "static/media/node.png": "/static/media/node.8683d89cf78ffae3d1f7.png",
     "static/media/cpp.png": "/static/media/cpp.9002a804bbfa0354d0b8.png",
@@ -29,11 +30,11 @@
     "static/media/skype.png": "/static/media/skype.c8d7ee175da5b4c8a8ab.png",
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.369f8852.css.map": "/static/css/main.369f8852.css.map",
-    "main.944b7230.js.map": "/static/js/main.944b7230.js.map"
+    "main.0530d441.css.map": "/static/css/main.0530d441.css.map",
+    "main.dadb887a.js.map": "/static/js/main.dadb887a.js.map"
   },
   "entrypoints": [
-    "static/css/main.369f8852.css",
-    "static/js/main.944b7230.js"
+    "static/css/main.0530d441.css",
+    "static/js/main.dadb887a.js"
   ]
 }
