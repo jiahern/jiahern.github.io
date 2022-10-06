@@ -9,17 +9,13 @@ const About = () => {
   const [abouts, setAbouts] = useState([]);
 
   useEffect(() => {
-    const query = '*[_type == "abouts"]';
+    const query = '*[_type == "abouts"] | order(order asc)';
     client.fetch(query).then((data) => setAbouts(data));
   }, []);
 
   return (
     <>
-      <h2 className="head-text">
-        I Know that <span>Great Development</span>
-        <br />
-        means <span>Great Business</span>
-      </h2>
+      <h2 className="head-text">About Me</h2>
 
       <div className="app__profiles">
         {abouts.map((about, index) => (
