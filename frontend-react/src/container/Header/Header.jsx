@@ -9,7 +9,7 @@ const scaleVariants = {
     scale: [0, 1],
     opacity: [0, 1],
     transition: {
-      duration: 1,
+      duration: 0.5,
       ease: 'easeInOut',
     },
   },
@@ -52,7 +52,7 @@ const Header = () => {
 
       <motion.div
         whileInView={{ opacity: [0, 1] }}
-        transition={{ duration: 0.5, delayChildren: 0.5 }}
+        transition={{ duration: 0.5, ease: 'easeIn' }}
         className="app__header-img"
       >
         <img src={images.profile} alt="profile_bg" />
