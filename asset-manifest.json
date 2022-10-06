@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.369f8852.css",
-    "main.js": "/static/js/main.15fca375.js",
-    "static/media/Jordan_compressed.png": "/static/media/Jordan_compressed.c7daa4074b90bb5a445e.png",
+    "main.js": "/static/js/main.08f019bf.js",
+    "static/media/Jordan.png": "/static/media/Jordan.73417117f0d4b38bee9f.png",
     "static/media/about04.png": "/static/media/about04.fa7b3a72ed32b0e25bfb.png",
     "static/media/about02.png": "/static/media/about02.7a3df03410ee756268ec.png",
     "static/media/about01.png": "/static/media/about01.080509de05322b7aafda.png",
@@ -30,10 +30,10 @@
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.369f8852.css.map": "/static/css/main.369f8852.css.map",
-    "main.15fca375.js.map": "/static/js/main.15fca375.js.map"
+    "main.08f019bf.js.map": "/static/js/main.08f019bf.js.map"
   },
   "entrypoints": [
     "static/css/main.369f8852.css",
-    "static/js/main.15fca375.js"
+    "static/js/main.08f019bf.js"
   ]
 }
